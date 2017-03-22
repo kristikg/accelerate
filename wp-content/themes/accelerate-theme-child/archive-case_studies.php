@@ -7,6 +7,8 @@
  * @since Accelerate Marketing 1.0
  */
 
+//just a comment to repush this to staging site
+
 get_header(); ?>
 
 <div id="primary" class="site-content">
